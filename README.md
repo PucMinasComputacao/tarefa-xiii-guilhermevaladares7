@@ -7,14 +7,14 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Guilherme Ferreira Valadares
+- Matricula:914106
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+<<  ![alt text](image.png) >>
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+<<  ![alt text](image-1.png) >>
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+<<  ![alt text](image-2.png)I >>
 
